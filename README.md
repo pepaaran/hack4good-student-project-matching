@@ -6,5 +6,6 @@ I recommend setting up a virtual Python environment and installing the packages 
 ```
 conda create -n h4genv
 conda activate h4genv
+pip install numpy==1.23.3
 pip install -r requirements.txt
 ```
